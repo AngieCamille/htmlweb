@@ -1,19 +1,7 @@
 # htmlweb - WHTC
 
-- includes html file, css file and images folder.
-- Languages: HTML, CSS, Javascript & Bootstrap
-
-*******************************************************
-- Errors to solve:
-* Buttons on carousel do not respond correctly.
-* Carousel caption disappears instead of being responsive.
-* Carousel needs more creative slide options
-* Carousel shrinks during responsive testing, it should widen.
-
-*******************************************************
-- Outstanding:
-* Company images
-* Company content
-* Content management system
-* Login (Database)
-* Search engine optimization
+whtc/home folder is the most up to date.
+html3 folder is outdated but can be used as backup incase of errors.
+- Testimonial is not on github.
+- dropdowns have stopped responding, check if it works on your side.
+- Footer is not done. I will complete it (excluding an enquiry form) -- If you are able to add an enquiry form, please do so.
